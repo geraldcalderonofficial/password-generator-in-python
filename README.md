@@ -2,4 +2,4 @@
 
 Generates a random combination of numbers, letters, and symbols to be used as a password created in Python. 
 
-[Gerald Works]()
+[Gerald Works](https://geraldworks.dev/password-generator-in-python/)
